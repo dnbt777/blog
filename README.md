@@ -6,9 +6,9 @@
 
 
 ## Meta Learning (Formerly Learn How to Learn)
-Meta learning is a positive feedback loop (exponential growth). The faster you learn **how to learn**, the faster you **learn** how to learn.
+<i color="#222">Meta learning is a positive feedback loop (exponential growth). The faster you learn **how to learn**, the faster you **learn** how to learn.
 
-7 years ago I started focusing on meta learning once I saw it was a positive feedback loop, and only within the last few years have I seen meaningful compounding effects. This blog series contains articles on learning concepts/strategies to speed up your own positive feedback loop.
+7 years ago I started focusing on meta learning once I saw it was a positive feedback loop, and only within the last few years have I seen meaningful compounding effects. This blog series contains articles on learning concepts/strategies to speed up your own positive feedback loop.</i>
 
 [How I Cured My Procrastination](https://learnhowtolearn.org/how-i-cured-procrastination/)
 
@@ -29,9 +29,10 @@ Meta learning is a positive feedback loop (exponential growth). The faster you l
 
 
 ## ML in Jax from Semi-Scratch
+<i>
 In this series I write about my journey to improve my ML skills by practicing implementing networks in jax.
 
-Each post includes the resources I found helpful, useful tips, and my final code you can play around with.
+Each post includes the resources I found helpful, useful tips, and my final code you can play around with.</i>
 
 
 *MNIST CNN
