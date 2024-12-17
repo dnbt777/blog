@@ -1,5 +1,9 @@
 # dnbt777/blog
 
+<div align="center">
+    <img src="style.svg" width="400" height="400" alt="css-in-readme">
+</div>
+
 ## All Series
 - Meta Learning Series (Formerly Learn How to Learn)
 - ML in Jax from Semi-Scratch
