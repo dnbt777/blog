@@ -10,7 +10,7 @@ Meta learning is a positive feedback loop (exponential growth). The faster you l
 
 7 years ago I started focusing on meta learning once I saw it was a positive feedback loop, and only within the last few years have I seen meaningful compounding effects. This blog series contains articles on learning concepts/strategies to speed up your own positive feedback loop.
 
-**[How I Cured My Procrastination](https://learnhowtolearn.org/how-i-cured-procrastination/)
+[How I Cured My Procrastination](https://learnhowtolearn.org/how-i-cured-procrastination/)
 
 [How to Build Anything Extremely Quickly](https://learnhowtolearn.org/how-to-build-extremely-quickly/)
 
@@ -20,7 +20,7 @@ Meta learning is a positive feedback loop (exponential growth). The faster you l
 
 [How to MAX out d(knowledge)/dt](https://learnhowtolearn.org/how-to-max-out-useful-knowledge/)
 
-[How to Use LLMs Better](https://learnhowtolearn.org/wiki/how-to-use-llms-better/)**
+[How to Use LLMs Better](https://learnhowtolearn.org/wiki/how-to-use-llms-better/)
 
 *Mentally Modeling Your Own Mind
 
