@@ -1,4 +1,6 @@
-# dnbt777/blog
+<div>
+    <img src="style.svg" width="800" height="100">
+</div>
 
 ## All Series
 - Meta Learning Series (Formerly Learn How to Learn)
@@ -27,12 +29,9 @@
 *How to Effectively Use 'Circle of Competency'
 
 
-
-<div>
-    <img src="style.svg" width="800" height="100">
-</div>
+# ML in Jax (From Semi-Scratch)
 <i>
-In this series I write about my journey to improve my ML skills by practicing implementing networks in jax.
+In this series I write about my journey to improve my ML skills by practicing implementing networks in jax.numpy from scratch (with autograd)
 
 Each post includes the resources I found helpful, useful tips, and my final code you can play around with.</i>
 
