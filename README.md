@@ -28,8 +28,8 @@
 
 
 
-<div align="center">
-    <img src="style.svg" width="400" height="400" alt="css-in-readme">
+<div>
+    <img src="style.svg" width="800" height="100">
 </div>
 <i>
 In this series I write about my journey to improve my ML skills by practicing implementing networks in jax.
