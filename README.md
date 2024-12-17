@@ -28,7 +28,7 @@ Meta learning is a positive feedback loop (exponential growth). The faster you l
 
 
 
-# ML in Jax from Semi-Scratch
+## ML in Jax from Semi-Scratch
 In this series I write about my journey to improve my ML skills by practicing implementing networks in jax.
 
 Each post includes the resources I found helpful, useful tips, and my final code you can play around with.
